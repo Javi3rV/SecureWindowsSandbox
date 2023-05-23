@@ -20,3 +20,4 @@ Nothing is 100% safe, but it has this features to reduce the attack surface:
 
 ## How to launch it
 Just double click on it, it will launch a clean windows and everything done there will be lost when closed.
+When executed, the sandbox will open it's downloads folder automatically, since shared files will be in that folder.

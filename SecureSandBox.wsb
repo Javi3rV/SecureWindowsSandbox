@@ -1,0 +1,19 @@
+<Configuration>
+     <vGPU>Disable</vGPU>
+     <Networking>Disable</Networking>
+     <AudioInput>Disable</AudioInput>
+     <VideoInput>Disable</VideoInput>
+     <ProtectedClient>Enable</ProtectedClient>
+     <PrinterRedirection>Disable</PrinterRedirection>
+     <ClipboardRedirection>Disable</ClipboardRedirection>
+     <MappedFolders>
+         <MappedFolder>
+             <HostFolder>C:\SNDBX\SandBox_Files\Mlwr</HostFolder>
+             <SandboxFolder>C:\Users\WDAGUtilityAccount\Downloads</SandboxFolder>
+             <ReadOnly>true</ReadOnly>
+         </MappedFolder>
+     </MappedFolders>
+     <LogonCommand>
+         <Command>explorer.exe C:\users\WDAGUtilityAccount\Downloads</Command>
+     </LogonCommand>
+</Configuration>

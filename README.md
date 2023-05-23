@@ -5,7 +5,7 @@ Secure Windows Sandbox with shared folder
 ## How to use
 In order to use this file, you need to:
   - Enable Windows Sandbox Feature (there are several tutorials and blogs for this, you need 64bit windows10/11 Pro, enterprise or Education)
-  - Create this folder structure: C:\SNDBX\SandBox_Files\Mlwr (another option is to modify the hostFolder option in the file) <-- this is the folder you will share to the SandBox
+  - Create this folder structure on your system: C:\SNDBX\SandBox_Files\Mlwr (another option is to modify the hostFolder option in the file) <-- this is the folder you will share to the SandBox
 
 ## Is it 100% safe?
 nothing is 100% safe, but it has this features to reduce the attack surface:

@@ -17,6 +17,7 @@ Nothing is 100% safe, but it has this features to reduce the attack surface:
   - PrinterRedirection disabled
   - Clipboard between host-sandbox disabled
   - shared folder is read-only from the sandbox, so you can only store files on it from the host
+
 It may be 1% slow, but still working perfectly
 
 ## How to launch it

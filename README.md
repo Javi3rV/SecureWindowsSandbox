@@ -8,7 +8,7 @@ In order to use this file, you need to:
   - Create this folder structure on your system: C:\SNDBX\SandBox_Files\Mlwr (another option is to modify the hostFolder option in the file) <-- this is the folder you will share to the SandBox
 
 ## Is it 100% safe?
-nothing is 100% safe, but it has this features to reduce the attack surface:
+Nothing is 100% safe, but it has this features to reduce the attack surface:
   - vGPU disabled
   - Networking disabled
   - AudioInput disabled
